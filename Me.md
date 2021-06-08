@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Div_Sharp
+- 👀 I’m interested in Technology and Games
+- 🌱 I’m currently learning Game Developing and Unity
+- 💞️ I’m looking to collaborate on Game Projects
+- 📫 You can reach me using Discord Username: Div_Sharp #2288
